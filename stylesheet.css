@@ -1,0 +1,78 @@
+.projectimage {
+	height: 150px;
+	width: 200px;
+	border: transparent;
+	border-bottom: 1px solid black;
+}
+.project {
+height: 200px;
+width: 200px;
+border: 1px solid black;
+background-color: white;
+cursor: pointer;
+display: table-cell;
+}
+
+.projects {
+	width: 98%;
+	border: 1px solid black;
+	height: 290px;
+	background-color: lightcyan;
+	position: absolute;
+	left: 10px;
+	top: 100%;
+
+}
+.tryit {
+	border: 1px solid black;
+	background-color: lightgreen;
+	height: 40px;
+	width: 200px;
+	font-size: 20px;
+	cursor: pointer;
+}
+.subtext {
+	font-size: 20px; 
+}
+#logo {
+	left: 10px;
+	position: absolute;
+	top: 8px;
+}
+body {
+	font-family: arial;
+}
+
+	#menu {
+	width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    border-bottom: 1px solid black;
+    background-color: #ffc60c;
+	}
+	#menubutton {
+		position: absolute;
+		top: 0px;
+		height: 50px;
+		width: 100px;
+		
+		border: transparent;
+		text-align: center;
+		cursor: pointer;
+		font-family:arial;
+	} #menubutton:hover {
+		background-color: orange;
+	}
+	#menubuttontext {
+		padding: 0px;
+		
+	}
+	.i1 {left: 0px;}
+	.i1 {left: 100px;}
+	.i2 {left: 200px;}
+	.i3 {left: 300px;}
+	.i4 {right: 0px;}
+	.i5 {right: 100px;}
+	
